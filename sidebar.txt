@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[suk:home|Door43 (suk)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-suk|d43-suk repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-suk/archive/master.zip|d43-suk.zip]]
+
+**Recent Changes**
+{{changes>ns = suk}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/suk|Ethnologue data]]
+
